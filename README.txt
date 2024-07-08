@@ -1,0 +1,2 @@
+Streamlit app that allows you to chat with any webpage using local Llama-3 and Retrieval Augmented Generation (RAG). 
+This app runs entirely on your computer, making it 100% free and without the need for an internet connection.
